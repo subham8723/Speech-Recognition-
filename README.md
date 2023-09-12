@@ -1,2 +1,2 @@
-# Speech-Recognition-
-Speech Recognition and Sentiment Analysis using  AssemblyAI API 
+# Speech-Recognition
+Speech Recognition and Sentiment Analysis using AssemblyAI API
